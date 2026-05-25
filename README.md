@@ -28,7 +28,7 @@ Analizar el dataset y construir una explicación clara sobre:
     Qué servicio fue el más afectado
     Qué parte del sistema se vio más comprometida (endpoint)
     Qué tipo de errores dominaron
-    Qué cambió durante el incidente respecto a un baseline
+    Qué cambió durante el incidente respecto a un ba seline
 
 No hay una única forma “bonita” de presentarlo.
 Pero sí hay una regla:
